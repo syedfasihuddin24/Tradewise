@@ -99,6 +99,12 @@ export default function Login() {
             Your premium stock market dashboard for real-time insights and intelligent portfolio management.
           </motion.p>
         </div>
+
+        <div className="absolute bottom-10 left-16 z-10">
+          <p className="text-[10px] text-white/20 font-bold tracking-widest uppercase">
+            Designed & Developed by <span className="text-brand-400">Syed Fasihuddin</span>
+          </p>
+        </div>
       </div>
 
       {/* Right panel — form */}
