@@ -32,7 +32,7 @@ export default function App() {
   return (
     <AuthProvider>
       <PortfolioProvider>
-      <Router>
+      <Router basename={import.meta.env.BASE_URL}>
         <Routes>
           <Route path="/" element={<Login />} />
           <Route path="/register" element={<Register />} />
