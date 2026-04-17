@@ -54,6 +54,12 @@
 
 ---
 
+## 🤖 Built with AI
+
+This entire project was built with the assistance of an **AI agent**, showcasing the power of modern AI in full-stack application development. From architecture and design to implementation and deployment, every component was developed with AI guidance.
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: [React](https://reactjs.org/) + [Vite](https://vitejs.dev/)
